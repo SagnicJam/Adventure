@@ -58,3 +58,13 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Adventure/Assets/Settings/Lit2DSceneTemplate.scenetemplate
+Adventure/Assets/Settings/
+Adventure/Library/
+Adventure/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+Adventure/Logs/
+Adventure/ProjectSettings/
+Adventure/Temp/
+Adventure/UserSettings/
+Adventure/obj/
+Adventure/Packages/
